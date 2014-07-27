@@ -1,0 +1,150 @@
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+{ Name: 'Beautiful: UW Choir Concert',
+  Host: 'Conrad Grebel University College',
+  When: '\n    \n          Saturday, July 26, 2014 - 8:00 pm to 10:00 pm\n      \n',
+  Where: '\n              \n          543 Beechwood Drive         \n                    Waterloo,                     ON\n                    N2T 2S8 \n                    Canada\n                                                              ',
+  Website: 'https://uwaterloo.ca/music/events/beautiful-uw-choir-concert' }
+{ Name: 'International Autonomous Robot Racing Challenge',
+  Host: 'Faculty of Engineering ',
+  When: '\n    \n          Saturday, July 26, 2014 - 9:00 am to 5:00 pm\n      \n',
+  Where: '\n              \n          200 University Avenue West        \n                    Waterloo,                     ON\n                    N2L 3G1\n                    Canada\n                                                              ',
+  Website: 'http://robotracing.wordpress.com/482-2/' }
+{ Name: 'The Writing Centre at the Dana Porter Library ',
+  Host: 'The Writing Centre',
+  When: '\n    \n          Tuesday, May 20, 2014 - 10:00 am to Saturday, August 16, 2014 - 1:00 pm\n      \n',
+  Where: '\n              \n          200 University Avenue West        \n                    Waterloo,                     ON\n                    N2L 3G1\n                    Canada\n                                                              ',
+  Website: 'http://uwaterloo.ca/writing-centre/' }
+{ Name: 'Peace Camp 2014',
+  Host: 'Conrad Grebel University College',
+  When: '\n    \n          Monday, July 28, 2014 - 9:00 am to Friday, August 1, 2014 - 4:00 pm\n      \n',
+  Where: '\n              \n          140 Westmount Road North        \n                    Waterloo,                     ON\n                    N2L 3G6\n                    Canada\n                                                              ',
+  Website: 'http://uwaterloo.ca/grebel/campers/peace-camp' }
+{ Name: 'Architecture\'s Capstone Design Symposium',
+  Host: 'Waterloo Architecture',
+  When: '\n    \n          Monday, July 28, 2014 - 9:00 am to Friday, August 1, 2014 - 5:00 pm\n      \n',
+  Where: '\n              \n          7 Melville Street South        \n                    Cambridge,                     ON\n                    N1S 2H4\n                    Canada\n                                                              ',
+  Website: 'https://uwaterloo.ca/engineering/events/architectures-capstone-design-symposium' }
+{ Name: 'Work Search Strategies',
+  Host: '',
+  When: '\n    \n          Tuesday, July 29, 2014 - 2:30 pm to 4:00 pm\n      \n',
+  Where: '\n              \n          200 University Avenue West        \n                    Waterloo,                     ON\n                    N2L 3G1\n                    Canada\n                                                              ',
+  Website: undefined }
+{ Name: 'WIN Nano Graduate Student Seminar Series',
+  Host: 'Waterloo Institute for Nanotechnology',
+  When: '\n    \n          Tuesday, May 6, 2014 - 12:30 pm to 1:30 pm\n          Tuesday, May 13, 2014 - 12:30 pm to 1:30 pm\n          Tuesday, May 20, 2014 - 12:30 pm to 1:30 pm\n          Tuesday, May 27, 2014 - 12:30 pm to 1:30 pm\n          Tuesday, June 3, 2014 - 12:30 pm to 1:30 pm\n          Tuesday, June 10, 2014 - 12:30 pm to 1:30 pm\n          Tuesday, June 17, 2014 - 12:30 pm to 1:30 pm\n          Tuesday, June 24, 2014 - 12:30 pm to 1:30 pm\n          Tuesday, July 1, 2014 - 12:30 pm to 1:30 pm\n          Tuesday, July 8, 2014 - 12:30 pm to 1:30 pm\n          Tuesday, July 15, 2014 - 12:30 pm to 1:30 pm\n          Tuesday, July 22, 2014 - 12:30 pm to 1:30 pm\n          Tuesday, July 29, 2014 - 12:30 pm to 1:30 pm\n      \n',
+  Where: '\n              \n          200 University Avenue West        \n                    Waterloo,                     ON\n                    N2L 3G1\n                    Canada\n                                                              ',
+  Website: 'https://uwaterloo.ca/institute-nanotechnology/events/win-nano-graduate-student-seminar-series' }
+{ Name: 'Spring Instrumental Chamber Ensemble Concert',
+  Host: 'Conrad Grebel University College',
+  When: '\n    \n          Sunday, July 27, 2014 - 7:30 pm\n      \n',
+  Where: '\n              \n          140 Westmount Road North        \n                    Waterloo,                     ON\n                    N2L 3G6\n                    Canada\n                                                              ',
+  Website: 'https://uwaterloo.ca/music/events/spring-instrumental-chamber-ensemble-concert' }
+{ Name: 'Discovery Square presented by Faculty of Science',
+  Host: 'Faculty of Science',
+  When: '\n    \n          Tuesday, July 15, 2014 - 6:00 pm\n          Tuesday, July 22, 2014 - 6:00 pm\n          Tuesday, July 29, 2014 - 6:00 pm\n      \n',
+  Where: '\n                    Kitchener                                Canada\n                                                              ',
+  Website: 'http://www.kitchenerevents.ca/en/whatson/DiscoverySquare.asp' }
+{ Name: 'Building Waterloo Region: Alison Brooks Talks Architecture',
+  Host: 'Perimeter Institute for Theoretical Physics',
+  When: '\n    \n          Wednesday, July 30, 2014 - 7:30 pm to 10:00 pm\n      \n',
+  Where: '\n              \n          31 Caroline St. N.        \n                    Waterloo,                     ON\n                    N2L 2Y5\n                    Canada\n                                                              ',
+  Website: 'http://buildingwaterlooregion.ca/ai1ec_event/international-lecture-alison-brooks/' }
+{ Name: 'CrySP Speaker Series on Privacy',
+  Host: 'Cryptography, Security, and Privacy (CrySP) Research Group',
+  When: '\n    \n          Tuesday, August 5, 2014 - 3:00 pm\n      \n',
+  Where: '\n              \n          200 University Avenue West        \n                    Waterloo,                     ON\n                    N2L 3G1\n                    Canada\n                                                              ',
+  Website: 'https://crysp.uwaterloo.ca/speakers/' }
+{ Name: 'Violin Graduation Recital: Hannah Dotzert',
+  Host: 'Music Department, Conrad Grebel University College',
+  When: '\n    \n          Thursday, July 31, 2014 - 7:00 pm\n      \n',
+  Where: '\n              \n          140 Westmount Road North        \n                    Waterloo,                     ON\n                    N2L 3G6\n                    Canada\n                                                              ',
+  Website: 'https://uwaterloo.ca/music/events/violin-graduation-recital-hannah-dotzert' }
+{ Name: 'UW Farm Market - Fall term',
+  Host: 'UW Food Services',
+  When: '\n    \n          Thursday, September 11, 2014 - 9:00 am to 1:00 pm\n          Thursday, September 18, 2014 - 9:00 am to 1:00 pm\n          Thursday, September 25, 2014 - 9:00 am to 1:00 pm\n          Wednesday, October 1, 2014 - 9:00 am to 1:00 pm\n          Wednesday, October 8, 2014 - 9:00 am to 1:00 pm\n      \n',
+  Where: '\n              \n          200 University Avenue West        \n                    Waterloo,                     ON\n                    N2L 3G1\n                    Canada\n                                                              ',
+  Website: 'https://uwaterloo.ca/food-services/uw-farm-market' }
+{ Name: 'Science, Technology, and Gender: Challenges and Opportunities',
+  Host: 'Science and Technology in Society ',
+  When: '\n    \n          Sunday, August 10, 2014 (All day) to Wednesday, August 13, 2014 (All day)\n      \n',
+  Where: '\n              \n          200 University Avenue West        \n                    Waterloo,                     ON\n                    N2L 3G1\n                    Canada\n                                                              ',
+  Website: 'https://uwaterloo.ca/science-technology-society/program' }
+{ Name: 'UW Farm Market - Fall term',
+  Host: 'UW Food Services',
+  When: '\n    \n          Thursday, September 11, 2014 - 9:00 am to 1:00 pm\n          Thursday, September 18, 2014 - 9:00 am to 1:00 pm\n          Thursday, September 25, 2014 - 9:00 am to 1:00 pm\n          Wednesday, October 1, 2014 - 9:00 am to 1:00 pm\n          Wednesday, October 8, 2014 - 9:00 am to 1:00 pm\n      \n',
+  Where: '\n              \n          200 University Avenue West        \n                    Waterloo,                     ON\n                    N2L 3G1\n                    Canada\n                                                              ',
+  Website: 'https://uwaterloo.ca/food-services/uw-farm-market' }
+{ Name: 'Quantum Cryptography School for Young Students',
+  Host: 'Institute for Quantum Computing',
+  When: '\n    \n          Monday, August 11, 2014 - 9:00 am to Friday, August 15, 2014 - 5:00 pm\n      \n',
+  Where: '\n              \n          200 University Avenue West        \n                    Waterloo,                     ON\n                    N2L 3G1\n                    Canada\n                                                              ',
+  Website: 'https://uwaterloo.ca/quantum-cryptography-school-young-students/' }
+{ Name: 'UW Farm Market - Fall term',
+  Host: 'UW Food Services',
+  When: '\n    \n          Thursday, September 11, 2014 - 9:00 am to 1:00 pm\n          Thursday, September 18, 2014 - 9:00 am to 1:00 pm\n          Thursday, September 25, 2014 - 9:00 am to 1:00 pm\n          Wednesday, October 1, 2014 - 9:00 am to 1:00 pm\n          Wednesday, October 8, 2014 - 9:00 am to 1:00 pm\n      \n',
+  Where: '\n              \n          200 University Avenue West        \n                    Waterloo,                     ON\n                    N2L 3G1\n                    Canada\n                                                              ',
+  Website: 'https://uwaterloo.ca/food-services/uw-farm-market' }
+{ Name: 'UW Farm Market - Fall term',
+  Host: 'UW Food Services',
+  When: '\n    \n          Thursday, September 11, 2014 - 9:00 am to 1:00 pm\n          Thursday, September 18, 2014 - 9:00 am to 1:00 pm\n          Thursday, September 25, 2014 - 9:00 am to 1:00 pm\n          Wednesday, October 1, 2014 - 9:00 am to 1:00 pm\n          Wednesday, October 8, 2014 - 9:00 am to 1:00 pm\n      \n',
+  Where: '\n              \n          200 University Avenue West        \n                    Waterloo,                     ON\n                    N2L 3G1\n                    Canada\n                                                              ',
+  Website: 'https://uwaterloo.ca/food-services/uw-farm-market' }
+{ Name: 'UW Farm Market - Fall term',
+  Host: 'UW Food Services',
+  When: '\n    \n          Thursday, September 11, 2014 - 9:00 am to 1:00 pm\n          Thursday, September 18, 2014 - 9:00 am to 1:00 pm\n          Thursday, September 25, 2014 - 9:00 am to 1:00 pm\n          Wednesday, October 1, 2014 - 9:00 am to 1:00 pm\n          Wednesday, October 8, 2014 - 9:00 am to 1:00 pm\n      \n',
+  Where: '\n              \n          200 University Avenue West        \n                    Waterloo,                     ON\n                    N2L 3G1\n                    Canada\n                                                              ',
+  Website: 'https://uwaterloo.ca/food-services/uw-farm-market' }
+{ Name: '7th Annual St. Paul\'s Masters Golf Tournament',
+  Host: 'St. Paul\'s University College ',
+  When: '\n    \n          Friday, August 22, 2014 - 7:30 am to 4:00 pm\n      \n',
+  Where: '\n              \n          15731 Regional Road 50         \n                    Caledon,                     ON\n                    L7E 3H9 \n                    Canada\n                                                              ',
+  Website: 'http://www.eventbrite.ca/e/7th-annual-st-pauls-masters-golf-tournament-tickets-10588308917' }
+{ Name: 'Doors Open Waterloo Region',
+  Host: 'Region of Waterloo',
+  When: '\n    \n          Saturday, September 20, 2014 - 9:00 am to 5:00 pm\n      \n',
+  Where: '\n                                      Canada\n                                                              ',
+  Website: 'http://www.regionofwaterloo.ca/en/discoveringtheregion/doorsopenwaterloo.asp?_mid_=17305' }
+{ Name: '29th Annual Faculty of Applied Health Sciences (AHS) Fun Run',
+  Host: 'Faculty of Applied Health Sciences',
+  When: '\n    \n          Saturday, September 27, 2014 - 9:00 am\n      \n',
+  Where: '\n              \n          200 University Avenue West        \n                    Waterloo,                     ON\n                    N2L 3G1\n                    Canada\n                                                              ',
+  Website: 'https://uwaterloo.ca/applied-health-sciences/alumni-friends/events/ahs-fun-run/ahs-fun-run-2014' }
+{ Name: '11th Annual Traditional Pow Wow',
+  Host: 'Waterloo Aboriginal Education Centre',
+  When: '\n    \n          Saturday, September 27, 2014 - 12:00 pm to 5:00 pm\n      \n',
+  Where: '\n              \n          190 Westmount Road North        \n                    Waterloo,                     ON\n                    N2L 3G5\n                    Canada\n                                                              ',
+  Website: 'https://uwaterloo.ca/stpauls/events/11th-annual-traditional-pow-wow' }
+{ Name: 'UWSA Shopping Trip',
+  Host: 'UWSA',
+  When: '\n    \n          Friday, November 7, 2014 - 4:00 pm to Sunday, November 9, 2014 - 5:00 pm\n      \n',
+  Where: '\n                                      United States\n                                                              ',
+  Website: 'https://uwaterloo.ca/staff-association/events/uwsa-shopping-trip' }
+{ Name: 'Waterloo Unlimited Grade 12 Road Map to Research-3 Day Program ',
+  Host: 'Waterloo Unlimited High School Enrichment Program',
+  When: '\n    \n          Wednesday, November 12, 2014 - 9:00 am to Friday, November 14, 2014 - 8:00 pm\n      \n',
+  Where: '\n                                      Canada\n                                                              ',
+  Website: 'https://uwaterloo.ca/unlimited/programs/grade-12' }
