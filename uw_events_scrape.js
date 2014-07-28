@@ -15,11 +15,10 @@ var start_page = "https://uwaterloo.ca/events/events?date=Current&type=All&audie
 // i.e.: scrapes data 1 level deep
 // 
 
-function deep_event_scrape(url_array){
+function deep_event_scrape(url){
 
-  for (var index = 0; index < url_array.length; index++){
       
-    request(url_array[index], function(error, response, html){
+    request(url, function(error, response, html){
       if (!error && response.statusCode == 200){
         
         var $ = cheerio.load(html);
@@ -41,12 +40,20 @@ function deep_event_scrape(url_array){
               var postal_code = $_('span.postal-code').text();
               var country = $_('div.country-name').text();
 
+              var types_array = [];
+              var event_types = $_('div.field_uw_event_tag').find('a').each(function(){
+                types_array.push($_(this).text());  
+              });
+
+
               var Event = {
                 Name: title,
                 Host: event_host,
-                When: event_times,
-                Where: [event_bldg, room, street, city, postal_code, country],
-                Website: event_website
+                When: event_times.trim().replace('\n',''),
+                Where: [event_bldg.trim(), room.trim(), street.trim(), city.trim(), postal_code.trim(), country.trim()],
+                Website: event_website,
+                Category: types_array
+
               };
               console.log(Event);
             }
@@ -54,7 +61,6 @@ function deep_event_scrape(url_array){
         });
       }
     });
-  }
 }
 
 // USAGE: get_event_pages()
@@ -74,9 +80,10 @@ function get_event_pages(){
         urls.push(main_uw_site + page_link);
       });
 
-      //console.log(urls);
+      for (var i = 0; i < urls.length; i++){
+        deep_event_scrape(urls[i]);
+      }
       
-      deep_event_scrape(urls);
       
 
     }
